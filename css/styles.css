@@ -1,0 +1,109 @@
+/* Feel free to style me! */
+
+html{
+
+}
+@font-face {
+  font-family: Timeline;
+  src: url(fonts/Timeline.otf);
+}
+@font-face {
+  font-family: Quicksand;
+  src: url(fonts/Quicksand_Book.otf);
+}
+@font-face {
+  font-family: Dunley;
+  src: url(fonts/Dunley.otf);
+}
+
+@font-face {
+  font-family: Eastman;
+  src: url(fonts/Eastman-Grotesque-Bold-trial.otf);
+}
+
+body {
+  border: 10px double #106620;
+  background-color: #d9ffe3;
+  font-weight: bold;
+  text-align: center;
+	font-family: 'Quicksand', helvetica, arial, sans-serif;
+	font-size: 18px;
+}
+
+p {
+	color: #46a357;
+	margin: 25px;
+	text-align: center;
+
+}
+
+ul{
+
+}
+
+li{
+
+}
+
+#name h1 {
+	font-size: 5em;
+	font-weight: 500;
+	font-family: 'Eastman', Helvetica, Arial, sans-serif;
+	margin-bottom: -6px;
+
+}
+
+#name h2 {
+	font-size: 3em;
+	margin-left: 2px;
+	font-family: 'Timeline', Helvetica, Arial, sans-serif;
+}
+
+#name h3 {
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Quicksand', helvetica, arial, sans-serif;
+	font-size: 30px;
+}
+#name h4 {
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Quicksand', helvetica, arial, sans-serif;
+	font-size: 25px;
+}
+img {
+	border: 5px outset #00ff2f;
+}
+
+hr {
+	color: #106620;
+	background-color: #106620;
+	height: 2px;
+	width: 75%;
+	border-style: dotted;
+
+}
+
+<!-- #picture img { -->
+	border: 2px solid;
+}
+
+dd {
+	color: #46a357;
+	margin: 25px;
+	text-align: left;
+}
+
+dt {
+	color: #000000;
+	
+}
+
+dl {
+	color: #46a357;
+	margin: 25px;
+	text-align: left;
+}
+footer {
+	font-size: 15px;
+}
